@@ -26,7 +26,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - Authentication was done with Passport
 _ Wrote custom middleware and classes
 - Neat and starightforward codebase
-- Check API @ [https://documenter.getpostman.com/view/11560803/TzK16aZA](https://documenter.getpostman.com/view/11560803/TzK16aZA).
+- Check API @ [https://documenter.getpostman.com/view/11560803/TzK16aZA](https://documenter.getpostman.com/view/11560803/TzK16aZA)
 
 
 ### How to Install
@@ -45,5 +45,5 @@ _ Wrote custom middleware and classes
 
 ### Documentation for API endpoints
 
-[https://documenter.getpostman.com/view/11560803/TzK16aZA](https://documenter.getpostman.com/view/11560803/TzK16aZA).
+[https://documenter.getpostman.com/view/11560803/TzK16aZA](https://documenter.getpostman.com/view/11560803/TzK16aZA)
 
